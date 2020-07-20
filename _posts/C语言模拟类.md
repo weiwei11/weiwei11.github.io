@@ -3,7 +3,7 @@ layout: post
 title: C语言模拟类
 date: 2020-07-20
 author: weiwei
-cover: ''
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
 tags: C
 ---
 # C语言模拟类
